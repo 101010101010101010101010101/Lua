@@ -1,0 +1,7 @@
+--[[ MOD WHITELIST ]]--
+
+ModCheck = {
+  [2819726490] = true, -- \\ RAYxCOMMUNITY
+}
+ 
+return ModCheck
